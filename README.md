@@ -6,7 +6,9 @@ une assistante IA pour du fun. ce projet permet de lire un (livre, document, pag
 
 
 #pour generer notre voie dans notre devoir 
-#pip install pyttsx3
+
+#    pip install pyttsx3
 
 #pour appeler nnotre PDF
-#pip install pyPDF2
+
+#   pip install pyPDF2
