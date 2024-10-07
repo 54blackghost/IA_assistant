@@ -1,14 +1,10 @@
-# IA_assistant
-une assistante IA pour du fun. ce projet permet de lire un (livre, document, pages)PDF avec une voie determiner
+an AI assistant for fun. this project allows you to read a (book, document, pages)PDF with a determined path 
 
+#Always make sure that all our elements are installed
+#To generate our way in our homework we need to install a Python library
 
-#Toujours se rassurer que tous nos elements soient installe
+pip install pyttsx3
 
+#to call up our PDF file so that it can read on our AI we also have to install another library
 
-#pour generer notre voie dans notre devoir 
-
-#    pip install pyttsx3
-
-#pour appeler nnotre PDF
-
-#   pip install pyPDF2
+pip install pyPDF2
